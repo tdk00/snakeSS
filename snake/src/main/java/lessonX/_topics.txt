@@ -1,0 +1,11 @@
+- warm up
+
+- graphs
+- internal representation
+- unidirectional / bidirectional
+- loops
+- BFS (my code)
+- DFS (my code)
+- Dijkstra (my code)
+
+- snake algorithm lee
